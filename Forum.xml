@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Forum>
+  <Category>
+    <title>Programming</title>
+    <Posts>
+      <Post>
+        <title>Hello World</title>
+        <content>This is just a test post.</content>
+        <user>t4i3xvdspg2jhld4couffq5h</user>
+        <Reply>
+          <content>Looks like.
+
+Everything
+is
+working!</content>
+          <user>t4i3xvdspg2jhld4couffq5h</user>
+        </Reply>
+      </Post>
+      <Post>
+        <title>Jibber Jabber</title>
+        <content>More of nothing for the Test.</content>
+        <user>t4i3xvdspg2jhld4couffq5h</user>
+      </Post>
+      <Post>
+        <title>C#</title>
+        <content>Hello World in C#!</content>
+        <user>t4i3xvdspg2jhld4couffq5h</user>
+      </Post>
+      <Post>
+        <title>R Language</title>
+        <content>I wonder how it works.</content>
+        <user>zsluxkeqjpza45lmhy4ux34n</user>
+        <Reply>
+          <content>Test content.</content>
+          <user>t4i3xvdspg2jhld4couffq5h</user>
+        </Reply>
+        <Reply>
+          <content>New reply content.</content>
+          <user>t4i3xvdspg2jhld4couffq5h</user>
+        </Reply>
+        <Reply>
+          <content>3rd reply is a charm.
+Next line.</content>
+          <user>t4i3xvdspg2jhld4couffq5h</user>
+        </Reply>
+      </Post>
+      <Post>
+        <title>Okay</title>
+        <content>Dokay</content>
+        <user>zsluxkeqjpza45lmhy4ux34n</user>
+        <Reply>
+          <content>Reply as Xylch.</content>
+          <user>t4i3xvdspg2jhld4couffq5h</user>
+        </Reply>
+        <Reply>
+          <content>Post as NewRandoUser.</content>
+          <user>hxel2k4fdoq3o5bq0aetkdjs</user>
+        </Reply>
+      </Post>
+    </Posts>
+  </Category>
+  <Category>
+    <title>Anime</title>
+    <Posts>
+      <Post>
+        <title>Broken Sword</title>
+        <content>Some random stuff about the anime Broken Sword.</content>
+        <user>t4i3xvdspg2jhld4couffq5h</user>
+      </Post>
+      <Post>
+        <title>Sword Art Online</title>
+        <content>Some more random content on SAO.</content>
+        <user>t4i3xvdspg2jhld4couffq5h</user>
+        <Reply>
+          <content>I love this show.
+
+It's pretty awesome.
+
+Here is some random text from Wikipedia about it:
+An anime television series produced by A-1 Pictures aired in Japan between July and December 2012. An Extra Edition episode aired on December 31, 2013, and a second anime series, titled Sword Art Online II, began airing in July 2014. A video game based on the series, Sword Art Online: Infinity Moment, was released on PlayStation Portable in March 2013, with a second game, Sword Art Online: Hollow Fragment for PlayStation Vita (PS Vita) released in April 2014. A third game, Sword Art Online: Lost Song, was released on PlayStation 3 and PS Vita in March 2015.</content>
+          <user>t4i3xvdspg2jhld4couffq5h</user>
+        </Reply>
+      </Post>
+      <Post>
+        <title>Third Try</title>
+        <content>Is the Charm</content>
+        <user>t4i3xvdspg2jhld4couffq5h</user>
+      </Post>
+      <Post>
+        <title>Blah Blah</title>
+        <content>Woopiedo doo da!</content>
+        <user>zsluxkeqjpza45lmhy4ux34n</user>
+      </Post>
+    </Posts>
+  </Category>
+</Forum>

@@ -1,0 +1,99 @@
+﻿body {
+    background: rgb(35, 35, 35);
+}
+
+table.center {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table.center a {
+    color: green;
+    text-decoration: none;
+}
+
+table, tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    width: 350px;
+    vertical-align: top;
+    white-space: pre-line;
+}
+
+.postMainTable {
+    width: 80%;
+}
+
+.postMainTable tr:not(.postTitleRow) {
+    height: 200px;
+}
+
+.postMainTable td:not(.postBy) {
+    
+    width: auto;
+}
+
+.postTitle {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Verdana;
+}
+
+.postTitleRow {
+    background: #5B5B5B;
+}
+
+.postContentRow {
+    background: #848484;
+}
+
+.postReplyRow {
+    background: #C1C1C1;
+}
+
+.postBy {
+    width: 10%;
+}
+
+.postsCell {
+    background: #C1C1C1;
+    padding: 6px 6px 6px 6px;
+}
+
+.postsCell a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.postsCell:hover {
+    background: #848484;
+}
+
+ .createPost {
+    color: red;
+    text-decoration: none;
+    border: 1px solid blue;
+    padding: 4px;
+}
+
+ .createPost:hover {
+     color: black;
+     background: green;
+ }
+
+ .reglog {
+     color: green;
+ }
+
+ .replyHeader {
+     color: red;
+ }
+
+ h2 {
+     color: purple;
+ }

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <User>
+    <username>Xylch</username>
+    <password>asp.net</password>
+    <sessionID>t4i3xvdspg2jhld4couffq5h</sessionID>
+  </User>
+  <User>
+    <username>Xylch2</username>
+    <password>12345</password>
+    <sessionID>zsluxkeqjpza45lmhy4ux34n</sessionID>
+  </User>
+  <User>
+    <username>ThirdUser</username>
+    <password>SomePass</password>
+    <sessionID>a5ho04cggpu3x4hz4zlnbr0z</sessionID>
+  </User>
+  <User>
+    <username>NewRandoUser</username>
+    <password>54321</password>
+    <sessionID>hxel2k4fdoq3o5bq0aetkdjs</sessionID>
+  </User>
+</Users>
